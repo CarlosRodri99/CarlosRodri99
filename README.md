@@ -9,12 +9,15 @@ Desarrollador full-stack con especialización en datos e Inteligencia Artificial
 ## 🎯 Sobre mí
 
 ```
-<p>📍 Carlet, Valencia, España</p>
-<p>💼 Operario de Logística y Almacén (2021–2025)</p>
-<p>🎓 Curso de Especialización en IA y Big Data (2025–2026)</p>
-<p>🔗 <a href="https://www.linkedin.com/in/carlos-rodríguez-monzó-50b35320b/">LinkedIn</a></p>
-<p>📧 carlos.rodriguez.monzo.99@gmail.com</p>
-<p>🌐 <a href="https://carlosrodri99.github.io/">Portfolio</a></p>
+📍 **Carlet, Valencia, España**  
+💼 **Operario de Logística y Almacén (2021–2025)**  
+🎓 **Curso de Especialización en IA y Big Data (2025–2026)**  
+🔗 **LinkedIn:** [Carlos Rodríguez Monzó](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/)  
+📧 **Email:** carlos.rodriguez.monzo.99@gmail.com  
+🌐 **Portfolio:** [carlosrodri99.github.io](https://carlosrodri99.github.io/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-carlosrodri99.github.io-2ea44f?style=flat&logo=google-chrome&logoColor=white)](https://carlosrodri99.github.io/)
+
 
 ```
 
