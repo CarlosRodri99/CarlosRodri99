@@ -154,7 +154,6 @@ Implementación completa de segmentación automática de dedos en imágenes tér
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosRodríguezMonzo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/)
 [![GitHub](https://img.shields.io/badge/GitHub-CarlosRodri99-181717?style=flat&logo=github)](https://github.com/CarlosRodri99)
 [![Email](https://img.shields.io/badge/Email-carlos.rodriguez.monzo.99@gmail.com-EA4335?style=flat&logo=gmail)](mailto:carlos.rodriguez.monzo.99@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B34%20694280386-25D366?style=flat&logo=whatsapp)](tel:+34694280386)
 
 ---
 
