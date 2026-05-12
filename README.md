@@ -14,7 +14,6 @@ Desarrollador full-stack con especialización en datos e Inteligencia Artificial
 🎓 Curso de Especialización en IA y Big Data (2025-2026)
 🔗 LinkedIn: carlos-rodríguez-monzo
 📧 carlos.rodriguez.monzo.99@gmail.com
-📱 +34 694280386
 ```
 
 ### Mi enfoque
