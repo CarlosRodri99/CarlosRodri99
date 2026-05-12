@@ -12,7 +12,7 @@ Desarrollador full-stack con especialización en datos e Inteligencia Artificial
 📍 Carlet, Valencia, España
 💼 Operario de Logística y Almacén (2021-2025)
 🎓 Curso de Especialización en IA y Big Data (2025-2026)
-🔗 LinkedIn: [https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/)
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/)
 📧 carlos.rodriguez.monzo.99@gmail.com
 ```
 
@@ -66,7 +66,7 @@ Desarrollador full-stack con especialización en datos e Inteligencia Artificial
 
 ## 📊 Proyectos Destacados
 
-### 🩻 [ProyectoFinal_CSEBDIA](https://github.com/CarlosRodri99/ProyectoFinal_CSEBDIA)
+### 🩻 [ProyectoFinal_CSEBDIA](https://github.com/Manel-Sebastian/ProyectoFinal_CSEBDIA)
 **Segmentación de Radiografías Térmicas con MedSAM**
 
 Implementación completa de segmentación automática de dedos en imágenes térmicas usando MedSAM.
