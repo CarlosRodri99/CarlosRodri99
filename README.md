@@ -15,9 +15,6 @@ Desarrollador full-stack con especialización en datos e Inteligencia Artificial
 🔗 LinkedIn:[Carlos Rodríguez Monzó](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-monz%C3%B3-50b35320b/)  
 📧 Email: carlos.rodriguez.monzo.99@gmail.com  
 🌐 Portfolio: [carlosrodri99.github.io](https://carlosrodri99.github.io/)
-
-
-
 ```
 
 ### Mi enfoque
